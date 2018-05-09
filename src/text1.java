@@ -8,5 +8,7 @@ public class text1
         int a=0;
         System.out.println(++a);
         System.out.println("helloworld!");
+        int b=5;
+        System.out.println(a+b);
     }
 }
