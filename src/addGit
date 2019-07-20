@@ -1,4 +1,6 @@
 addGit2
 public static void main (String [] arg){
-
+  int i;
+  String str1;
+  
 }
